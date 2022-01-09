@@ -1,0 +1,16 @@
+.empty-img{
+    width: 30vw;
+}
+.empty-text{
+    font-size: 5rem;
+    color: grey;
+    font-weight: bolder;
+}
+.nodata-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
